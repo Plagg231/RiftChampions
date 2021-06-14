@@ -1,0 +1,76 @@
+body{
+    margin center
+    width: 500px;
+    background: #43536b;
+}
+h1{
+    font-size: 50px;
+    color: Lightblue;
+    text-align: center;
+}
+.Main-table{
+    border-style: double;
+    border-color: black;
+    background: black;
+    margin: auto;
+}
+th{
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    background: purple;
+}
+a{
+    Font-style: Italic;
+    color: cyan;
+}
+th a{
+    color: white;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3 p{
+    text-align: left;
+}
+div{
+    margin: auto;
+    width: 600px;
+    color:white;
+    font-size: 17px;
+}
+.header:before{
+    Content: "Rift Champions: ";
+}
+.catalog{
+    width: 600px;
+    margin: auto;
+    border: double;
+    background: pink;
+}
+.catalog th{
+    height: 50px;
+    border: solid;
+    background: violet;
+    font-style: italic;
+}
+.catalog td{
+    text-align: center;
+    border-bottom: 2px solid;
+}
+#Name{
+    width: 100px;
+}
+#Mana{
+    width: 60px;
+}
+#hover:hover{
+    font-size: 25px;
+    color: red;
+}
+#Effect{
+    width: 550px;
+}
